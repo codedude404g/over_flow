@@ -1,0 +1,15 @@
+Name - Merhawi Haile
+
+Email- Merhawi_Haile@student.uml.edu
+
+Homework 5-
+
+I think I completed this assignment 100%, all of the test cases seem to work.
+
+Writing the overflow case was pretty simple, the hardest part was getting 
+the generic print string function to work, which I called “prints”. 
+
+Writing the normal case without overflow was much more difficult. 
+I used the stack to store each remainder as soon as they were calculated by DIV. 
+and then I just read them back off the stack to print to the screen.
+

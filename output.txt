@@ -1,0 +1,151 @@
+[mhaile@mercury2 Merhawi_Haile_hw5]$ ./mic1 prom_mrd.dat hw5.obj 0 2048
+
+Read in 152 micro instructions
+Read in 216 machine instructions
+Starting PC is : 0000000000000000  base 10:       0
+Starting SP is : 0000100000000000  base 10:    2048
+
+Please enter a 1-5 digit number followed by enter
+235
+Please enter a 1-5 digit number followed by enter
+0
+THE SUM OF THESE INTEGERS IS:
+235
+ProgramCounter : 0000000001011000  base 10:      88
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000011111111110  base 10:    2046
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111110110  base 10:   65526
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000010  base 10:       2
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 7044850
+
+Type decimal address to view memory,  q  to quit or  c  to continue: q
+MIC-1 emulator finishing, goodbye
+
+[mhaile@mercury2 Merhawi_Haile_hw5]$ ./mic1 prom_mrd.dat hw5.obj 0 2048
+
+Read in 152 micro instructions
+Read in 216 machine instructions
+Starting PC is : 0000000000000000  base 10:       0
+Starting SP is : 0000100000000000  base 10:    2048
+
+Please enter a 1-5 digit number followed by enter
+16341
+Please enter a 1-5 digit number followed by enter
+957
+THE SUM OF THESE INTEGERS IS:
+17298
+ProgramCounter : 0000000001011000  base 10:      88
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000011111111110  base 10:    2046
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111110110  base 10:   65526
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000001  base 10:       1
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 8307431
+
+Type decimal address to view memory,  q  to quit or  c  to continue: q
+MIC-1 emulator finishing, goodbye
+
+[mhaile@mercury2 Merhawi_Haile_hw5]$ ./mic1 prom_mrd.dat hw5.obj 0 2048
+
+Read in 152 micro instructions
+Read in 216 machine instructions
+Starting PC is : 0000000000000000  base 10:       0
+Starting SP is : 0000100000000000  base 10:    2048
+
+Please enter a 1-5 digit number followed by enter
+23786
+Please enter a 1-5 digit number followed by enter
+12400
+THE SUM OF THESE INTEGERS IS:
+OVERFLOW, NO SUM POSSIBLE:
+
+ProgramCounter : 0000000001011100  base 10:      92
+Accumulator    : 1111111111111111  base 10:   65535
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000011111111110  base 10:    2046
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111111111  base 10:   65535
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0011000001110000  base 10:   12400
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 4433367
+
+Type decimal address to view memory,  q  to quit or  c  to continue: q
+MIC-1 emulator finishing, goodbye
+
+[mhaile@mercury2 Merhawi_Haile_hw5]$ ./mic1 prom_mrd.dat hw5.obj 0 2048
+
+Read in 152 micro instructions
+Read in 216 machine instructions
+Starting PC is : 0000000000000000  base 10:       0
+Starting SP is : 0000100000000000  base 10:    2048
+
+Please enter a 1-5 digit number followed by enter
+12
+Please enter a 1-5 digit number followed by enter
+23
+THE SUM OF THESE INTEGERS IS:
+35
+ProgramCounter : 0000000001011000  base 10:      88
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000011111111110  base 10:    2046
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111110110  base 10:   65526
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000011  base 10:       3
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 1850403
+
+Type decimal address to view memory,  q  to quit or  c  to continue: q
+MIC-1 emulator finishing, goodbye
+
+[mhaile@mercury2 Merhawi_Haile_hw5]$ ./mic1 prom_mrd.dat hw5.obj 0 2048
+
+Read in 152 micro instructions
+Read in 216 machine instructions
+Starting PC is : 0000000000000000  base 10:       0
+Starting SP is : 0000100000000000  base 10:    2048
+
+Please enter a 1-5 digit number followed by enter
+1
+Please enter a 1-5 digit number followed by enter
+1343
+THE SUM OF THESE INTEGERS IS:
+1344
+ProgramCounter : 0000000001011000  base 10:      88
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000011111111110  base 10:    2046
+ARegister      : 1111111111110101  base 10:   65525
+BRegister      : 1111111111110110  base 10:   65526
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000001  base 10:       1
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 2046910
+
+Type decimal address to view memory,  q  to quit or  c  to continue: q
+MIC-1 emulator finishing, goodbye
+
